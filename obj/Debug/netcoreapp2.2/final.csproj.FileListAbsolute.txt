@@ -1,0 +1,68 @@
+/Users/tkha/Desktop/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.deps.json
+/Users/tkha/Desktop/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.runtimeconfig.json
+/Users/tkha/Desktop/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.runtimeconfig.dev.json
+/Users/tkha/Desktop/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.dll
+/Users/tkha/Desktop/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.pdb
+/Users/tkha/Desktop/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.Views.dll
+/Users/tkha/Desktop/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.csprojAssemblyReference.cache
+/Users/tkha/Desktop/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.csproj.CoreCompileInputs.cache
+/Users/tkha/Desktop/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.RazorAssemblyInfo.cache
+/Users/tkha/Desktop/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.RazorAssemblyInfo.cs
+/Users/tkha/Desktop/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.AssemblyInfoInputs.cache
+/Users/tkha/Desktop/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.AssemblyInfo.cs
+/Users/tkha/Desktop/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.RazorTargetAssemblyInfo.cache
+/Users/tkha/Desktop/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.dll
+/Users/tkha/Desktop/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.pdb
+/Users/tkha/Desktop/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.csproj.CopyComplete
+<<<<<<< HEAD
+=======
+>>>>>>> master
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.deps.json
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.runtimeconfig.json
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.runtimeconfig.dev.json
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.dll
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.pdb
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.Views.dll
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.csprojAssemblyReference.cache
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.csproj.CoreCompileInputs.cache
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.RazorAssemblyInfo.cache
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.RazorAssemblyInfo.cs
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.AssemblyInfoInputs.cache
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.AssemblyInfo.cs
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.RazorTargetAssemblyInfo.cache
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.dll
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.pdb
+/Users/jeremy/Documents/2019 Spring/CSC210/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.csproj.CopyComplete
+>>>>>>> 33b5c62109363e189ef075dbfcabcd9879ed48d2
+E:/xampp/htdocs/210/final/bin/Debug/netcoreapp2.2/final.deps.json
+E:/xampp/htdocs/210/final/bin/Debug/netcoreapp2.2/final.runtimeconfig.json
+E:/xampp/htdocs/210/final/bin/Debug/netcoreapp2.2/final.runtimeconfig.dev.json
+E:/xampp/htdocs/210/final/bin/Debug/netcoreapp2.2/final.dll
+E:/xampp/htdocs/210/final/bin/Debug/netcoreapp2.2/final.pdb
+E:/xampp/htdocs/210/final/bin/Debug/netcoreapp2.2/final.Views.dll
+E:/xampp/htdocs/210/final/obj/Debug/netcoreapp2.2/final.csprojAssemblyReference.cache
+E:/xampp/htdocs/210/final/obj/Debug/netcoreapp2.2/final.csproj.CoreCompileInputs.cache
+E:/xampp/htdocs/210/final/obj/Debug/netcoreapp2.2/final.RazorAssemblyInfo.cache
+E:/xampp/htdocs/210/final/obj/Debug/netcoreapp2.2/final.RazorAssemblyInfo.cs
+E:/xampp/htdocs/210/final/obj/Debug/netcoreapp2.2/final.AssemblyInfoInputs.cache
+E:/xampp/htdocs/210/final/obj/Debug/netcoreapp2.2/final.AssemblyInfo.cs
+E:/xampp/htdocs/210/final/obj/Debug/netcoreapp2.2/final.RazorTargetAssemblyInfo.cache
+E:/xampp/htdocs/210/final/obj/Debug/netcoreapp2.2/final.dll
+E:/xampp/htdocs/210/final/obj/Debug/netcoreapp2.2/final.pdb
+E:/xampp/htdocs/210/final/obj/Debug/netcoreapp2.2/final.csproj.CopyComplete
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.deps.json
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.runtimeconfig.json
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.runtimeconfig.dev.json
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.dll
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.pdb
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/bin/Debug/netcoreapp2.2/final.Views.dll
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.csprojAssemblyReference.cache
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.csproj.CoreCompileInputs.cache
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.RazorAssemblyInfo.cache
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.RazorAssemblyInfo.cs
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.AssemblyInfoInputs.cache
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.AssemblyInfo.cs
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.RazorTargetAssemblyInfo.cache
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.dll
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.pdb
+/Users/tkha/Desktop/backup/csc-210-final-project-group1/obj/Debug/netcoreapp2.2/final.csproj.CopyComplete

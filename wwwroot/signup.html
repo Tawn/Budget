@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title>Sign Up</title>
+		<script src="js/signup.js"></script>
+		<!-- <link rel="stylesheet" href="css/login.css" /> -->
+		<link rel="stylesheet" href="css/login2.css" />
+		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	</head>
+	<body>
+		<header>
+			<h1>BudgetApp &mdash; sign up</h1>
+		</header>
+		<main>
+			<!-- <form id="form">
+				<div class="formgroup">
+					<label for="Email">Email:</label>
+					<input type="email" name="Email" id="input_email" />
+				</div>
+				<div class="formgroup">
+					<label for="Password">Password:</label>
+					<input type="password" name="Password" id="Password" />
+				</div>
+				<div class="formgroup">
+					<label for="FirstName">First Name:</label>
+					<input type="text" name="FirstName" id="input_firstname" />
+				</div>
+				<div class="formgroup">
+					<label for="LastName">Last Name:</label>
+					<input type="text" name="LastName" id="input_lastname" />
+				</div>
+				<button id="submit" type="button" onclick="sign_up()">Sign Up</button>
+			</form> -->
+
+			<!--bootstrap version-->
+			<form id="form">
+				<div class="form-group">
+				  	<label for="Email">Email:</label>
+				  	<input type="email" name="Email" id="input_email" class="form-control" placeholder="Enter email">
+				</div>
+				<div class="form-group">
+				  	<label for="Password">Password:</label>
+				  	<input type="Password" name="Password" id="Password" class="form-control" placeholder="Enter password">
+				</div>
+				<div class="form-group">
+					<label for="FirstName">First Name:</label>
+					<input type="text" name="FirstName" id="input_firstname" class="form-control" placeholder="Enter first name">
+				  </div>
+				<div class="form-group">
+					<label for="LastName">Last Name:</label>
+					<input type="text" name="LastName" id="input_lastname" class="form-control" placeholder="Enter last name">
+			  </div>
+				<button id="submit" onclick="sign_up()" type="button" class="btn btn-success">Sign Up</button>
+			</form>
+
+			<div class="alert alert-warning" role="alert">
+				Already have an account? <a href="/login" class="alert-link">Login</a>
+			</div>
+
+			<!-- <a href="login">Already have an account?</a> -->
+		</main>
+		<script src="js/signup.js"></script>
+	</body>
+</html>

@@ -1,0 +1,21 @@
+header {
+    width: 100%;
+    padding: 30px;
+    /* border: 20px; */
+    background-color: #eee;
+    border-bottom: 2px solid #ccc;
+    text-align: center;
+    color: green;
+    /* margin: auto; */
+}
+
+form {
+    width: 300px;
+    padding: 60px 0px;
+    margin: auto;
+}
+
+a {
+    width: 300px;
+    margin: auto;
+}

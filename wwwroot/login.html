@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title></title>
+		<script src="js/login.js"></script>
+		<!-- <link rel="stylesheet" href="css/login.css" /> -->
+		<link rel="stylesheet" href="css/login2.css" />
+		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	</head>
+	<body>
+		<header>
+			<h1>BudgetApp &mdash; login</h1>
+		</header>
+		<main>
+			<div id="wrong-password" style="color:red">
+				<!-- div reserved for wrong password -->
+			</div>
+			
+			<!--bootstrap version-->
+			<form id="form">
+				<div class="form-group">
+				  	<label for="email">Email:</label>
+				  	<input type="email" name="email" id="input_email" class="form-control" placeholder="Enter email">
+				</div>
+				<div class="form-group">
+				  	<label for="password">Password:</label>
+				  	<input type="password" name="password" id="input_password" class="form-control" placeholder="Enter password">
+				</div>
+				<button id="submit" onclick="log_in()" type="button" class="btn btn-success">LOGIN</button>
+			</form>
+
+			<div class="alert alert-warning" role="alert">
+				Need to create an account? <a href="/signup" class="alert-link">Sign Up</a>
+			</div>
+		</main>
+	</body>
+</html>

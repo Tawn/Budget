@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Budget</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script src="scripts/budget.js"></script>
+</head>
+
+
+<body id="main-body">
+
+    <!-- HEADER -->
+    <div id="header-display"></div>
+
+    <!-- MAX BUDGET -->
+    <div >
+        <h2 id="max-budget-display">Max Budget: $0.00</h2>
+        <input type="text" name="max budget" id="new-budget">
+        <input type="button" onclick="set_budget()" value="Change Budget">
+    </div>
+
+    <!-- REMAINING BUDGET -->
+    <div >
+        <h2 id="remaining-budget-display">Remaining Budget: $0.00</h2>
+    </div>
+
+    <div id="category-expense">
+
+        <!-- CATEGORIES -->
+        <div id="category-display"></div>
+        <input type="text" name="category" id="new-category">
+        <input type="button" onclick="" value="Add Category">
+
+        <!-- EXPENSE -->
+        <input type="text" name="expense" id="new-expense">
+        <input type="button" onclick="" value="Add Expense">
+
+    </div>
+
+</body>
+
+</html>
